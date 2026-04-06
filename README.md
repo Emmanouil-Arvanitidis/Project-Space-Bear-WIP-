@@ -1,2 +1,2 @@
 # Project Space Bear(WIP)
-A work in progress horror game
+A work in progress horror project
